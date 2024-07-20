@@ -1,0 +1,12 @@
+### Used Filterlists
+# AWAvenue Ads Rule                                           https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
+# AdGuard DNS filter                                          https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+# OISD Blocklist Big                                          https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt
+# Phishing URL Blocklist (PhishTank and OpenPhish)            https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+# HaGeZi's Normal Blocklist                                   https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt
+# Dandelion Sprout's Anti-Malware List                        https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt
+# Malicious URL Blocklist (URLHaus)                           https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+# WindowsSpyBlocker - Hosts spy rules                         https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
+
+### Personal Blocklist
+heilsarmee.ch
