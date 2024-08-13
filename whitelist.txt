@@ -1,1 +1,7 @@
+sc-cdn.net
 snapchat.com
+googleapis.com
+appspot.com
+snapads.com
+cdn.snapchat.com
+snapkit.com
