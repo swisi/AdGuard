@@ -5,3 +5,4 @@ appspot.com
 snapads.com
 cdn.snapchat.com
 snapkit.com
+roblox.com
