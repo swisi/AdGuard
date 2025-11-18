@@ -6,3 +6,4 @@ snapads.com
 cdn.snapchat.com
 snapkit.com
 roblox.com
+challenges.cloudflare.com
